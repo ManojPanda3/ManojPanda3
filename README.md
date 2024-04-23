@@ -1,5 +1,5 @@
-** Hello 👋 **
-** I am Manoj Panda - Web Developer  **
+**Hello** 👋 
+**I am Manoj Panda - Web Developer**
 
 📄 **About Me** 
 
