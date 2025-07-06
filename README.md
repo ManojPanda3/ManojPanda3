@@ -1,27 +1,73 @@
-**Hello** 👋 
-**I am Manoj Panda**
+# Hi there, I'm Manoj Panda 👋
 
-📄 **About Me** 
+<p align="center">
+  <a href="https://github.com/ManojPanda3">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Manoj%20Panda&fontSize=90" />
+  </a>
+</p>
 
-I'm a passionate web developer with a strong foundation in Python, JavaScript, c++/cpp and c.
-I leverage powerful frameworks like React for front-end development and Flask,express for building robust APIs.
+I can create beautiful websites with React, Next.js, Flask, GoFiber, and Express. I also code tools and other applications in C++, C, and Python.
 
-🤹‍♀️ **Skills**
+---
 
-* Programming Languages: Python, JavaScript, c++ , c
-* Frameworks: React(vite), Flask, express, mongoose, NextJS 
+### 📬 Connect with Me
 
-🤗 **Open to Collaboration**
+<p align="left">
+  <a href="mailto:manojpandawork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.co/mXRhxWtI5z">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/manojpanda_255/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/manoj76233">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-I'm always eager to contribute to open-source projects and collaborate with fellow developers. Feel free to reach out if you have any project ideas or simply need some help!
+---
 
-🔗 **Connect with Me**
+### 📊 My GitHub Stats
 
-- Email : manojpandawork@gmail.com
-- My FaceBook : https://t.co/mXRhxWtI5z
-- My Instagram : https://www.instagram.com/manojpanda_255/
-- My X : https://twitter.com/manoj76233
+<p align="center">
+  <a href="https://github.com/ManojPanda3">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManojPanda3&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ManojPanda3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPanda3&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ManojPanda3">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojPanda3&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
-🛠 **Let's Build Something Amazing!**
+---
 
-I'm constantly learning and exploring new technologies. If you have any interesting projects in mind, don't hesitate to connect! 
+### 💻 Tech Stack
+
+- **Programming Languages:** Python, JavaScript, C++, C, Go
+- **Frameworks & Libraries:** React(vite), Next.js, Flask, Express.js, GoFiber, Mongoose
+
+---
+
+### 🌱 I'm currently learning:
+
+I'm always eager to learn and explore new technologies.
+
+---
+
+### 👯 I’m looking to collaborate on:
+
+I'm always eager to contribute to open-source projects. Feel free to reach out if you have any project ideas!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
+</p>
